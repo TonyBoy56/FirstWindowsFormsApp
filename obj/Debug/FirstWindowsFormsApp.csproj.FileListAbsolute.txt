@@ -1,0 +1,11 @@
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\FirstWindowsFormsApp\bin\Debug\FirstWindowsFormsApp.exe.config
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\FirstWindowsFormsApp\bin\Debug\FirstWindowsFormsApp.exe
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\FirstWindowsFormsApp\bin\Debug\FirstWindowsFormsApp.pdb
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.Form1.resources
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.Properties.Resources.resources
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.exe
+C:\Users\codro\OneDrive\Desktop\Personal_Projects\repos\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.pdb
